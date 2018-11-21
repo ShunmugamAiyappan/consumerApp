@@ -1,0 +1,13 @@
+# IDE
+.DS_STORE
+*.patch
+.idea
+**/*.iml
+**/*.ipr
+*.iml
+# Build
+**/target/
+target
+build_scripts/
+run
+result/
